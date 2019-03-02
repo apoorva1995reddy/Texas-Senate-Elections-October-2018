@@ -1,3 +1,7 @@
+
+## Note: In case of reload error you can copy paste the *.ipynb notebook link that you want to view in "https://nbviewer.jupyter.org/"
+(sometimes github fails to render the ipynb notebooks, I believe that is some temporary (and recurring) issue with their backend)
+
 # 2018 - Texas Senate Elections
 
 Project to analyze tweets about Ted Cruz and Beto O'Rourke leading up to the 2018 senate election.
